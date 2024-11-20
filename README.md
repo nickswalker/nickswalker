@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**nickswalker/nickswalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Code highlights
+- 🤖 A GPU-accelerated [assisted robot teleoperation system](https://github.com/NVlabs/fast-explicit-teleop) I built at [Nvidia Research](https://research.nvidia.com/labs/srl/)
+- 🦾 Systems work across [a warehouse picking workcell](https://github.com/au-rmr/aurmr_tahoma/commits/main?author=nickswalker), to an [office service robot](https://github.com/utexas-bwi/segbot/commits/master/?author=nickswalker) (including a [distro ROS1 package](https://github.com/utexas-bwi/knowledge_representation)), to an [adorable home social robot](https://github.com/hcrlab/kuri/commits/master?author=nickswalker) for various research projects
+- 🧙 An [embedded reinforcement learner](https://github.com/nickswalker/ArduinoRL) (just 2KB of SRAM!)
+- 🏃 Many fun running things with [Race Condition Running](https://github.com/raceconditionrunning/)
+  -  🧠 An [automated scheduler](https://github.com/raceconditionrunning/relay-scheduler) for assigning runners to legs in relays
+  -  🎥 A [vision-based lap-counting system](https://github.com/raceconditionrunning/visual-race-timing) for timing races
+  -  ⛲ A WebGL-simulated fountain (live [here](https://raceconditionrunning.com/dm24)) and a 🚈 live-transit integrated route map (live [here](https://raceconditionrunning.com/lrr24)) for the [club site](https://github.com/raceconditionrunning/raceconditionrunning.github.io)
+- ..and other toys like a:
+  - 🎨 [Paper marbling simulation](https://github.com/nickswalker/marblizer) (live [here](https://marblizer.nickwalker.us))
+  - 🔣 Recreation of [Seattle-area dot matrix displays](https://github.com/nickswalker/seattle-transit-dot-matrix)
+  - 📃 A [script](https://github.com/nickswalker/indesign-cv-template) to make InDesign resumes/CVs manageable
